@@ -32,7 +32,7 @@ Tab1Section:NewButton("Brookhaven🏡RP","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
 end)
 
-Tab1Section:NewButton("[🐯🍩UPDATE]Blox Friuts","No description",function()
+Tab1Section:https://github.com/TakeModzz/Games-HUB-Destroyer-V4/blob/d76175bdb46ab203879d4230a1de9c368502a3d0/Games%20HUB%20Destroyer%20V4#L35
 loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
 end)
 
